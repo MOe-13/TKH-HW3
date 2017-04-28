@@ -1,0 +1,34 @@
+{
+	"movies": [
+		{
+			"name": "A Clockwork Orange",
+			"year": "1971",
+			"genre":"Dystopian"
+		},
+		{
+			"name": "Boyz in the Hood",
+			"year": "1991",
+			"genre":"Drama"
+		},
+		{
+			"name": "MOe in the House",
+			"year": "2017",
+			"genre":"Entertainment"
+		},
+		{
+			"name": "Lucy",
+			"year": "2014",
+			"genre":"Sci-Fi"
+		},
+		{
+			"name": "Life-size",
+			"year": "2000",
+			"genre":"Fantasy-comedy"
+		},
+		{
+			"name": "Kazaam",
+			"year": "1996",
+			"genre":"Fantasty-Comedy"
+		},
+	]
+}
